@@ -1,0 +1,33 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: red;
+}
+ 
+  .h2class
+  {
+     
+background:purple;
+     }
+#id2{ font-size: 24px;
+}  
+#main {
+  width: 600px;
+  margin: 0 auto; 
+}
+
+.static {
+  position: static;
+  border: 3px solid #ad214b;
+}
+
+.relative {
+  position: relative;
+  left: 30px;
+  border: 3px solid #ad1580;
+}
+
